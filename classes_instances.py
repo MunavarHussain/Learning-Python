@@ -24,5 +24,10 @@ if __name__ == "__main__":
     print(emp1.fname)
     print(emp2.fname)
     print(emp1.fullname())
+    
+#munavar
+#ashraf
+#munavar hussain
+    
 #    Attributes and methods created so far are for instances not for the class. Hence,
 #    print(Employee.fname) throws error.

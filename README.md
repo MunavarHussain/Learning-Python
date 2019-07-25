@@ -8,4 +8,5 @@ Corey's channel has a series of 6 videos dedicated for OOP concepts alone, which
 
 Tutorial 1 : Understanding Classes and Instances
 
+Tutorial 2 : Class variables.
 
