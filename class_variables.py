@@ -46,6 +46,7 @@ if __name__ == "__main__":
     print(emp1.raise_amount)    
     print(emp2.raise_amount)
     print(emp3.raise_amount)
+    print(emp1.email)
 #
 #Before:
 #1.04
@@ -56,5 +57,5 @@ if __name__ == "__main__":
 #1.05
 #1.06
 #1.07
-
+#munavar.hussain@company.com
 #    Things to note: each instance has its own copy of raise_amount and any changes are only applied to its copy.
