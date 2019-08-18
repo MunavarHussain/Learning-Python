@@ -1,4 +1,4 @@
-#Tutorial 4 - Class inheritance
+#Tutorial 5 - Magic Methods
 
 ''' Magic Methods are special methods, sometimes called dunder (with __dunder__ format) has special functions
 
@@ -15,7 +15,8 @@ class Employee(): # To define a class the keyword itself is 'class' with classna
         self.email = fname + '.' + lname + '@company.com'
     
     def fullname(self):
-        return self.fname+self.lname
+        return f'{self.fname} {self.lname}'
+    
     def __repr__(self): # for developers
         return f'Employee({self.fname},{self.lname},{self.pay})'
     
