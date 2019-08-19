@@ -12,3 +12,9 @@ Tutorial 2 : Class variables.
 
 Tutorial 3 - Class and static methods.
 
+Tutorial 4 - Inheritance.
+
+Tutorial 5 - Magic methods.
+
+Tutorial 6 - Property decorators.
+
