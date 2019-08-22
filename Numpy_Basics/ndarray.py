@@ -12,11 +12,12 @@ print(data)
 [[1 2 3]
  [4 5 6]]
 """
+# data can be accessable by index
 print(type(data))
 """
 <class 'numpy.ndarray'>
 """
-print(data.shape) #returns tuples
+print(data.shape) #returns tuple
 """
 (2, 3)
 #in a analogy to say (no. of lists, no.of items in the list)
