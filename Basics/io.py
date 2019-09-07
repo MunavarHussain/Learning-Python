@@ -31,3 +31,20 @@ same can be acheived by
 '''
 print(f'print var < {var} > here')
 print('print var < %d > here' %var)
+
+#Accepts all data types 
+n = input('enter a number')
+
+'''
+Extras:
+int('10')     - returns integer value 10
+int('10+10')  - returns value error 
+eval('10+10') - returns integer 20
+'''
+
+
+
+
+
+
+
